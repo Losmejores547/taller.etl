@@ -1,0 +1,103 @@
+﻿id_paciente,nombre,apellido,edad,genero,diagnostico,fecha_ingreso,fecha_alta,departamento,tipo_seguro,medicamento,costo,estado
+P001,Paula,Torres,66.0,F,Gastritis,2026-08-20,2026-08-29,Cardiologia,Privado,Omeprazol,272000,Hospitalizado
+P002,Laura,Ramirez,82.0,F,Bronquitis,2026-06-05,2026-06-08,Cirugia,Privado,Omeprazol,1356000,Alta
+P003,Juan,Gomez,25.0,F,Bronquitis,2026-09-28,2026-09-30,Urgencias,Privado,Amoxicilina,982000,Remitido
+P004,Daniel,Garcia,64.0,F,Hipertension,2026-04-11,2026-04-20,Cirugia,Subsidiado,Acetaminofen,913000,Remitido
+P005,Camila,Hernandez,30.0,M,Diabetes,2026-02-12,2026-02-24,Urgencias,Subsidiado,Losartan,900000,Alta
+P006,Laura,Gomez,1.0,F,Neumonia,2026-05-29,2026-06-05,Urgencias,Privado,Ibuprofeno,1531000,Hospitalizado
+P007,Sara,Lopez,35.0,M,Hipertension,2026-08-03,2026-08-05,Pediatria,Privado,Metformina,919000,Alta
+P008,Carlos,Gomez,8.0,M,Infeccion urinaria,2026-03-10,2026-03-14,urgencias,Subsidiado,Salbutamol,996000,Remitido
+P009,Sofia,Perez,83.0,M,Hipertension,2026-04-08,2026-04-20,Cirugia,Privado,Salbutamol,80000,Hospitalizado
+P010,Valentina,Martinez,51.0,F,Diabetes,2026-06-05,2026-06-06,Medicina Interna,Publico,Hierro,608000,Alta
+P011,Natalia,Rodriguez,10.0,F,Neumonia,2026-06-18,2026-06-23,Cardiologia,Subsidiado,Salbutamol,111000,Remitido
+P012,Miguel,Torres,17.0,M,Bronquitis,2026-07-08,2026-07-14,Medicina Interna,Privado,Omeprazol,1364000,Alta
+P013,Miguel,Lopez,25.0,F,Anemia,2026-06-09,2026-06-13,Medicina Interna,Subsidiado,Ibuprofeno,1068000,Remitido
+P014,Juan,Rodriguez,14.0,F,Anemia,2026-02-10,2026-02-17,Pediatria,Publico,Ibuprofeno,606000,Hospitalizado
+P015,Isabella,Martinez,9.0,F,Neumonia,2026-09-09,2026-09-14,Cirugia,Subsidiado,Losartan,653000,Alta
+P016,Ana,Rodriguez,35.0,M,Infeccion urinaria,2026-04-15,2026-04-27,Medicina Interna,Publico,Metformina,440000,Hospitalizado
+P017,Sara,Martinez,12.0,M,Gastritis,2026-07-08,2026-07-17,Cirugia,Privado,Omeprazol,1288000,Alta
+P018,Sebastian,Garcia,5.0,F,Bronquitis,2026-01-10,2026-01-18,Urgencias,Privado,Losartan,1576000,Hospitalizado
+P019,Laura,Rodriguez,58.0,M,Diabetes,2026-06-13,2026-06-16,URGENCIAS,Privado,Amoxicilina,253000,Remitido
+P020,Diego,Gomez,64.0,F,Bronquitis,2026-08-31,2026-09-02,Cirugia,Privado,Metformina,1326000,Alta
+P021,Carlos,Garcia,54.0,M,Migraña,2026-02-11,2026-02-13,Cardiologia,Privado,Hierro,1027000,Remitido
+P022,Isabella,Gomez,40.0,F,Infeccion urinaria,2026-02-12,2026-02-21,Urgencias,Publico,Losartan,1098000,Remitido
+P023,Ana,Hernandez,39.0,F,Bronquitis,2026-09-06,2026-09-11,Medicina Interna,Subsidiado,Omeprazol,1623000,Hospitalizado
+P024,Daniel,Hernandez,52.0,M,Neumonia,2026-08-15,2026-08-23,Cirugia,Publico,Salbutamol,867000,Alta
+P025,Sofia,Martinez,64.0,M,Diabetes,2026-06-12,2026-06-16,Urgencias,Privado,Omeprazol,311000,Hospitalizado
+P026,Valentina,Perez,49.0,M, diabetes ,2026-08-30,2026-09-04,Cardiologia,Privado,Amoxicilina,232000,Alta
+P027,Juan,Garcia,74.0,M,Asma,2026-05-23,2026-06-02,Cardiologia,Publico,Omeprazol,909000,Hospitalizado
+P028,Camila,Lopez,19.0,F,Hipertension,2026-04-08,2026-04-09,Cirugia,Publico,Amoxicilina,239000,Remitido
+P029,Samuel,Garcia,23.0,F,Infeccion urinaria,2026-04-12,2026-04-16,Cardiologia,Subsidiado,Metformina,446000,Alta
+P030,Nicolas,Ramirez,65.0,F,Migraña,2026-05-20,2026-05-26,Medicina Interna,Publico,Ibuprofeno,1559000,Hospitalizado
+P031,Paula,Lopez,81.0,F,Migraña,2026-03-08,2026-03-16,Cardiologia,Subsidiado,Amoxicilina,1029000,Hospitalizado
+P032,Carlos,Lopez,32.0,M,Hipertension,2026-04-15,2026-04-17,Pediatria,Subsidiado,Amoxicilina,616000,Remitido
+P033,Isabella,Rodriguez,5.0,M,Fractura,2026-01-09,2026-01-15,Cardiologia,Privado,Acetaminofen,1078000,Alta
+P034,Diego,Gomez,23.0,M,Gastritis,2026-04-22,2026-04-24,Cirugia,Publico,Hierro,1088000,Remitido
+P035,Paula,Ramirez,72.0,M,Anemia,2026-02-14,2026-02-18,Medicina Interna,Subsidiado,,718000,Remitido
+P036,Valentina,Garcia,19.0,M,Bronquitis,2026-07-15,2026-07-25,Cirugia,Publico,Ibuprofeno,1177000,Alta
+P037,Miguel,Perez,4.0,F,Anemia,2026-09-15,2026-09-16,Cirugia,Subsidiado,Losartan,1085000,Alta
+P038,Nicolas,Torres,53.0,M,Asma,2026-03-27,2026-03-29,Medicina Interna,Privado,Hierro,340000,Hospitalizado
+P039,Isabella,Hernandez,14.0,F,Migraña,2026-08-11,2026-08-19,Cardiologia,Publico,Acetaminofen,345000,Remitido
+P040,Valentina,Martinez,30.0,F,Asma,2026-01-12,2026-01-13,Pediatria,Subsidiado,Amoxicilina,580000,Remitido
+P041,Samuel,Moreno,16.0,M,Neumonia,2026-09-13,2026-09-15,Cardiologia,Privado,Metformina,849000,Remitido
+P042,Miguel,Martinez,69.0,F,Anemia,2026-07-31,2026-08-09,Medicina Interna,Subsidiado,Salbutamol,1191000,Remitido
+P043,Sebastian,Martinez,41.0,M,Neumonia,2026-03-11,2026-03-15,Medicina Interna,Publico,Losartan,354000,Alta
+P044,Laura,Garcia,50.0,F,Migraña,2026-03-09,2026-03-21,Cirugia,Subsidiado,Omeprazol,490000,Hospitalizado
+P045,Valentina,Moreno,46.0,M,Hipertension,2026-01-10,2026-01-12,Cardiologia,Subsidiado,Amoxicilina,1109000,Remitido
+P046,Samuel,Rodriguez,4.0,F,Anemia,2026-04-07,2026-04-09,Cardiologia,Subsidiado,Hierro,380000,Alta
+P047,Valentina,Martinez,21.0,M,Hipertension,2026-04-05,2026-04-07,Cardiologia,Publico,Omeprazol,1474000,Hospitalizado
+P048,Mariana,Perez,60.0,M,Anemia,2026-02-09,2026-02-11,Pediatria,,Salbutamol,1310000,Hospitalizado
+P049,Juan,Lopez,24.0,M,Infeccion urinaria,2026-01-07,2026-01-18,Pediatria,Subsidiado,Amoxicilina,910000,Alta
+P050,Isabella,Gomez,42.0,F,Migraña,2026-03-26,2026-03-28,Cardiologia,Subsidiado,Salbutamol,1112000,Remitido
+P051,Camila,Rodriguez,21.0,M,Gastritis,2026-06-24,2026-06-29,Pediatria,Subsidiado,Amoxicilina,1651000,Hospitalizado
+P052,Valentina,Martinez,10.0,M,Asma,2026-04-03,2026-04-10,Cirugia,Publico,Metformina,808000,Remitido
+P053,Camila,Garcia,44.0,F,Migraña,2026-01-26,2026-01-30,Cardiologia,Publico,Losartan,877000,Remitido
+P054,Valentina,Rodriguez,51.0,F,Hipertension,2026-09-12,2026-09-23,Cardiologia,Publico,Salbutamol,605000,Hospitalizado
+P055,Juan,Lopez,83.0,M,Diabetes,2026-07-25,2026-08-03,Urgencias,Privado,Acetaminofen,644000,Hospitalizado
+P056,Isabella,Moreno,13.0,M,Hipertension,2026-09-18,2026-09-25,Cardiologia,Subsidiado,Metformina,871000,Alta
+P057,Mateo,Torres,70.0,F,Migraña,2026-07-17,2026-07-25,Cirugia,Privado,Acetaminofen,1158000,Hospitalizado
+P058,Isabella,Garcia,62.0,M,Anemia,2026-06-09,2026-06-15,Pediatria,Subsidiado,Acetaminofen,135000,Alta
+P059,Juan,Martinez,53.0,M,Diabetes,2026-05-06,2026-05-16,Pediatria,Subsidiado,Ibuprofeno,182000,Remitido
+P060,Daniel,Perez,62.0,M,Neumonia,2026-06-13,2026-06-15,Urgencias,Subsidiado,Losartan,1739000,Remitido
+P061,Daniel,Moreno,15.0,F,Bronquitis,2026-08-28,2026-08-31,Cirugia,Privado,Losartan,497000,Alta
+P062,Sofia,Rodriguez,47.0,M,Gastritis,2026-07-02,2026-07-11,Cirugia,Privado,Acetaminofen,1389000,Remitido
+P063,Isabella,Martinez,38.0,F,Neumonia,2026-08-03,2026-08-09,Cirugia,Publico,Acetaminofen,1686000,Remitido
+P064,Camila,Moreno,,F,Asma,2026-07-03,2026-07-08,Medicina Interna,Publico,Salbutamol,1108000,Remitido
+P065,Juan,Gomez,2.0,M,Asma,2026-04-11,2026-04-22,Cirugia,Publico,Metformina,289000,Alta
+P066,Laura,Martinez,71.0,F,Fractura,2026-05-23,2026-05-25,Cirugia,Privado,Amoxicilina,511000,Hospitalizado
+P067,Sofia,Rodriguez,16.0,M,Bronquitis,2026-06-25,2026-07-03,Medicina Interna,Privado,Ibuprofeno,1610000,Hospitalizado
+P068,Sebastian,Martinez,84.0,M,Asma,2026-07-19,2026-07-22,Cardiologia,Subsidiado,Omeprazol,955000,Remitido
+P069,Carlos,Torres,42.0,F,Anemia,2026-07-09,2026-07-19,Urgencias,Privado,Hierro,1749000,Remitido
+P070,Ana,Rodriguez,40.0,F,Bronquitis,2026-08-26,2026-08-31,Urgencias,Subsidiado,Acetaminofen,1093000,Remitido
+P071,Sofia,Lopez,46.0,M,Fractura,2026-06-17,2026-06-22,Urgencias,Privado,Hierro,1245000,Remitido
+P072,Isabella,Garcia,59.0,M,Neumonia,2026-05-23,2026-05-31,Cirugia,Subsidiado,Salbutamol,252000,Hospitalizado
+P073,Sebastian,Perez,75.0,M,,2026-07-07,2026-07-08,Cardiologia,Privado,Ibuprofeno,1187000,Alta
+P074,Laura,Torres,37.0,F,Neumonia,2026-04-01,2026-04-04,Cardiologia,Publico,Omeprazol,1242000,Hospitalizado
+P075,Diego,Rodriguez,75.0,M,Anemia,2026-01-12,2026-01-23,Urgencias,Privado,Losartan,640000,Remitido
+P076,Laura,Gomez,82.0,F,Hipertension,2026-02-23,2026-03-01,Cirugia,Publico,Salbutamol,1081000,Remitido
+P077,Natalia,Hernandez,44.0,M,Gastritis,2026-06-23,2026-07-01,Cirugia,Privado,Losartan,1530000,Remitido
+P078,Sebastian,Gomez,49.0,F,Infeccion urinaria,2026-01-24,2026-01-31,Cardiologia,Subsidiado,Metformina,1152000,Hospitalizado
+P079,Diego,Perez,19.0,F,Gastritis,2026-01-06,2026-01-08,Cirugia,Subsidiado,Omeprazol,737000,Alta
+P080,Isabella,Garcia,36.0,F,Infeccion urinaria,2026-07-19,2026-07-26,Pediatria,Subsidiado,Losartan,701000,Remitido
+P081,Juan,Torres,3.0,M,Diabetes,2026-03-21,2026-03-24,Pediatria,Publico,Salbutamol,457000,Hospitalizado
+P082,Daniel,Moreno,61.0,F,Infeccion urinaria,2026-04-22,2026-05-02,Medicina Interna,Privado,Ibuprofeno,433000,Hospitalizado
+P083,Samuel,Perez,44.0,F,Infeccion urinaria,2026-09-03,2026-09-08,Medicina Interna,Privado,Metformina,525000,Alta
+P084,Isabella,Garcia,8.0,F,Diabetes,2026-07-17,2026-07-26,Cirugia,Privado,Hierro,1711000,Alta
+P085,Mateo,Perez,21.0,M,Gastritis,2026-08-04,2026-08-14,Pediatria,Subsidiado,Omeprazol,1384000,Remitido
+P086,Nicolas,Gomez,20.0,F,Diabetes,2026-05-17,2026-05-26,Medicina Interna,Publico,Omeprazol,248000,Hospitalizado
+P087,Isabella,Rodriguez,62.0,M,Hipertension,2026-05-19,2026-05-29,Cardiologia,Subsidiado,Acetaminofen,118000,Alta
+P088,Laura,Torres,27.0,F,Anemia,2026-08-02,2026-08-06,Cirugia,Subsidiado,Hierro,402000,Hospitalizado
+P089,Natalia,Rodriguez,72.0,M,Infeccion urinaria,2026-06-11,2026-06-16,Urgencias,Privado,Losartan,1487000,Alta
+P090,Natalia,Torres,16.0,M,Diabetes,2026-02-24,2026-03-07,Cirugia,Subsidiado,Hierro,566000,Hospitalizado
+P091,Ana,Lopez,79.0,F,Asma,2026-02-28,2026-03-08,Cirugia,Subsidiado,Acetaminofen,770000,Hospitalizado
+P092,Valentina,Lopez,49.0,F,Fractura,2026-02-14,2026-02-19,Pediatria,Privado,Hierro,1562000,Remitido
+P093,Natalia,Rodriguez,14.0,F,Bronquitis,2026-06-19,2026-06-27,Urgencias,Publico,Omeprazol,448000,Alta
+P094,Paula,Moreno,12.0,F,Neumonia,2026-07-25,2026-07-26,Urgencias,Publico,Losartan,968000,Hospitalizado
+P095,Diego,Ramirez,18.0,F,Gastritis,2026-02-07,2026-02-13,Cirugia,Privado,Amoxicilina,924000,Remitido
+P096,Natalia,Moreno,41.0,F,Bronquitis,2026-01-08,2026-01-20,Cardiologia,Publico,Acetaminofen,757000,Alta
+P097,Paula,Rodriguez,72.0,M,Neumonia,2026-06-25,2026-06-30,Cardiologia,Privado,Acetaminofen,1769000,Alta
+P098,Nicolas,Garcia,71.0,F,Fractura,2026-03-23,2026-03-28,Cardiologia,Subsidiado,Omeprazol,1255000,Remitido
+P099,Valentina,Moreno,4.0,F,Hipertension,2026-04-12,2026-04-21,Medicina Interna,Publico,Hierro,1260000,Hospitalizado
+P100,Laura,Hernandez,35.0,M,Hipertension,2026-06-20,2026-06-26,Cirugia,Subsidiado,Omeprazol,568000,Remitido
+P013,Miguel,Lopez,25.0,F,Anemia,2026-06-09,2026-06-13,Medicina Interna,Subsidiado,Ibuprofeno,1068000,Remitido
+P013,Miguel,Lopez,25.0,F,Anemia,2026-06-09,2026-06-13,Medicina Interna,Subsidiado,Ibuprofeno,1068000,Remitido
